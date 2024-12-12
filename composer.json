@@ -1,0 +1,17 @@
+{
+    "name": "sandralebrin/php_expert_2",
+    "autoload": {
+        "psr-4": {
+            "Sandralebrin\\PhpExpert2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandra Lebrin",
+            "email": "sandra.lebrin@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
